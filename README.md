@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Siddharth-101
-- 👀 I’m interested in PHP & Laravel
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m Projectes on PHP & Laravel
+- 🌱 I Love to dig into Different Programming Languages
+- 💞️ I’m looking to collaborate with each entity of the GitHub
+- 📫 How to reach me siddharthsavaliya1@gmail.com
 
 <!---
 Siddharth-101/Siddharth-101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
